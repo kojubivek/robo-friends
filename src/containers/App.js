@@ -3,7 +3,7 @@ import CardList from '../components/CardList';
 import SearchBox from '../components/SearchBox';
 import './App.css';
 import Scroll from '../components/scroll';
-import ErrorBroundry from '../components/ErrorBroundry'
+import ErrorBroundry from '../components/ErrorBoundry'
 
 
 
